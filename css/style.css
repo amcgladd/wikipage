@@ -1,0 +1,30 @@
+.col-md-4 {
+  outline: 4px solid #ffffff;
+}
+.col-md-6 {
+  outline: 4px solid #ffffff;
+}
+
+.col-md-10 {
+  outline: 4px solid #ffffff;
+}
+.sidebar {
+  float:left;
+  background-color: #e0e0e0;
+  padding: 30px;
+}
+img {
+  width: 100px;
+}
+ul{
+    list-style-type: none;
+}
+#welcome {
+  outline: 4px solid #ffffff;
+}
+.nav {
+  outline: 4px solid #ffffff;
+}
+body {
+  margin-top: 10px;
+}
